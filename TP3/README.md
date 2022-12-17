@@ -2,12 +2,6 @@
 
 ## Relatório Técnico
 
-### O quê? Qual a importância?
-
-### Projeto e Implementação do Algoritmo:
-
-### Metodologia
-
-### Resultados e Conclusões
+ver arquivo relatorioTP3.ipynb
 
 
